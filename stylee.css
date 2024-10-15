@@ -1,0 +1,47 @@
+body{
+    background-image: url(waves-3473335_1920.jpg);
+    background-size: cover;
+}
+.glass_panel{
+    margin-left: 500px;
+    width: 430px; 
+    height: 560px; 
+    padding: 20px;
+    border-radius: 15px; 
+    background: rgba(255, 255, 255, 0.2); 
+    backdrop-filter: blur(3px); 
+    text-align: center; 
+    margin-top: 70px;
+    /* border: 1px solid rgba(255, 255, 255, 0.3);  */
+    /* display: flex; */
+    /* justify-content: center; */
+    /* align-items: center; */
+    /* flex-direction: column; */
+    /* display: flex; */
+    /* justify-content: center;  */        
+}
+.mark{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: rgba(255, 255, 255, 0.2); 
+    backdrop-filter: blur(7px); 
+    border-radius: 6px;
+    text-align: center;    
+    color: rgb(5, 116, 5);
+}
+img{
+    margin-top: 70px;
+    padding: 10px;
+    border: 8px solid rgb(5, 116, 33);
+    width: 120px;
+}
+.pre{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: rgba(255, 255, 255, 0.2); 
+    backdrop-filter: blur(7px); 
+    border-radius: 6px;
+    width: 200px;
+    margin-top: 79px;
+    padding: 10px;
+    text-align: center;    
+    color: rgb(5, 116, 5);
+}

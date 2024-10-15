@@ -1,0 +1,82 @@
+body{
+    background-image: url(waves-3473335_1920.jpg);
+    background-size: cover;
+}
+.glass_panel{
+    margin-left: 500px;
+    width: 430px; 
+    height: 560px; 
+    padding: 20px;
+    border-radius: 15px; 
+    background: rgba(255, 255, 255, 0.2); 
+    backdrop-filter: blur(6px); 
+    text-align: center; 
+    margin-top: 70px;
+}
+.text{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.text2{
+    text-align: left;
+    margin-left: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.name{
+    width: 400px;
+    height: 50px; 
+   margin-left: 14px;
+    background: rgb(118, 158, 172);
+    backdrop-filter: blur(6px);
+    border-radius: 20px;
+    font-weight: bolde;
+    font-size: large;
+    box-shadow: 0 0 25px rgb(27, 27, 77);
+    border-color: rgb(25, 25, 86);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.text3{
+    text-align: left;
+    margin-left: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.email{
+    width: 400px;
+    height: 50px;
+   margin-left: 14px;
+    background: rgb(118, 158, 172);
+    backdrop-filter: blur(6px);
+    border-radius: 20px;
+    font-weight: bolde;
+    font-size: large;
+    box-shadow: 0 0 25px rgb(27, 27, 77);
+    border-color: rgb(25, 25, 86);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.text4{
+    text-align: left;
+    margin-left: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.massage{
+    width: 400px;
+    height: 150px;
+   margin-left: 14px;
+    background: rgb(118, 158, 172);
+    backdrop-filter: blur(6px);
+    border-radius: 20px;
+    font-weight: bolde;
+    font-size: large;
+    box-shadow: 0 0 25px rgb(27, 27, 77);
+    border-color: rgb(25, 25, 86);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.button{
+    margin-top: 30px;
+    width: 80px;
+    height: 30px;
+    background: rgb(118, 158, 172);
+    backdrop-filter: blur(6px);
+    border-radius: 20px;
+    box-shadow: 0 0 25px rgb(27, 27, 77);
+    border-color: rgb(25, 25, 86);
+}
